@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshvohra136" alt="ashutoshvohra136" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **DEVOPS**
 
-- 🌱 I’m currently learning **DSA , Application Development**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **Data Structures and Algorithms , C++ , Flutter , Dart**
+- 💬 Ask me about **Data Structures and Algorithms , Cloud , Docker , K8s(Kubernetes) , Ansible , GoLang , Python , C++ , Flutter , Dart**
 
 - 📫 How to reach me **ashutoshvohra136@gmail.com**
 
